@@ -1,3 +1,6 @@
+Note these codes are now not useful as I have found permanent EBOOT addresses so you never have to do anything with Artemis or MAPI again. Thus this repo will no longer be updated. The link to the permanent EBOOT patches is here:
+https://mega.nz/folder/EQtmTaSb#ozzCXUhc0gTt40KMGMhxcg
+
 These files work with Artemis to allow you to unlock the FPS in certain games, more games to come, there are also graphics settings that can be changed if you want to make games look sharper.
 
 1. To install these new files, you first need to go to webman, then hit update webman, you aren't there to update webman though, you just want to scroll down to where it says Artemis GUI then install that.
